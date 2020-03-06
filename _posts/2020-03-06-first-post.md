@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2020-03-06 11:03:30
 categories: jekyll update
 ---
 Hi
